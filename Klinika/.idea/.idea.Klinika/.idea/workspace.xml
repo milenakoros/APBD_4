@@ -9,9 +9,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74f924ac-b1a7-4293-b68b-00bad32d4d17" name="Changes" comment="Animal and Visit classes added">
-      <change afterPath="$PROJECT_DIR$/Klinika/DataStore.cs" afterDir="false" />
+    <list default="true" id="74f924ac-b1a7-4293-b68b-00bad32d4d17" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Klinika/VisitsController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Klinika/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Klinika/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Klinika/Animal.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Klinika/Animal.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Klinika/AnimalsController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Klinika/AnimalsController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Klinika/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Klinika/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Klinika/Visit.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Klinika/Visit.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Klinika/obj/Debug/net8.0/Klinika.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Klinika/obj/Debug/net8.0/Klinika.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Klinika/obj/Debug/net8.0/Klinika.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Klinika/obj/Debug/net8.0/Klinika.AssemblyInfoInputs.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +44,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Launch Settings Profile.Klinika: https.executor": "Run",
     "HTTP Request.Klinika | #1.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -57,7 +64,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.Klinika: http">
+  <component name="RunManager" selected=".NET Launch Settings Profile.Klinika: https">
     <configuration name="Klinika | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/Klinika/Klinika.http" requestIdentifier="#1" runType="Run single request">
       <method v="2" />
     </configuration>
@@ -121,7 +128,8 @@
       <option name="presentableId" value="Default" />
       <updated>1712928507478</updated>
       <workItem from="1712928508509" duration="1464000" />
-      <workItem from="1712959862565" duration="1313000" />
+      <workItem from="1712959862565" duration="1711000" />
+      <workItem from="1713106967834" duration="966000" />
     </task>
     <task id="LOCAL-00001" summary="2">
       <option name="closed" value="true" />
@@ -139,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712959951009</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="AnimalsController and DataStore added">
+      <option name="closed" value="true" />
+      <created>1712961825764</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712961825764</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +166,7 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="2" />
     <MESSAGE value="Animal and Visit classes added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Animal and Visit classes added" />
+    <MESSAGE value="AnimalsController and DataStore added" />
+    <option name="LAST_COMMIT_MESSAGE" value="AnimalsController and DataStore added" />
   </component>
 </project>
